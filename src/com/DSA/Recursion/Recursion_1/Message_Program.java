@@ -1,4 +1,4 @@
-package DSA.Recursion.Recursion_1;
+package com.DSA.Recursion.Recursion_1;
 
 public class Message_Program {
     public static void main(String[] args) {

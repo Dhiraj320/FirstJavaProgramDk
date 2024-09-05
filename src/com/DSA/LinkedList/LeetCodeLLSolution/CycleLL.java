@@ -1,4 +1,4 @@
-package DSA.LinkedList.LeetCodeLLSolution;
+package com.DSA.LinkedList.LeetCodeLLSolution;
 
   class ListNode {
       int val;
@@ -199,6 +199,7 @@ public class CycleLL {
 
     }
 
+    // Reverse k node Group
     public ListNode reverseKGroup(ListNode head, int k) {
         if(k<=1 || head==null){
             return head;
@@ -238,6 +239,52 @@ public class CycleLL {
             }
             previous =newEnd;
             count= count- k;
+
+
+
+        }
+        return head;
+
+
+
+    }
+    //
+    public ListNode reverseAlternateKGroup(ListNode head, int k) {
+        if(k<=1 || head==null){
+            return head;
+        }
+
+
+        //skip the first left-1 node;
+        ListNode previous=null;
+        ListNode present=head;
+        while(present!=null){
+            ListNode last=previous;
+            ListNode newEnd=present;
+            // reverse between left and right
+            ListNode next=present.next;
+            // it also reversing <k  end items so modify here
+            for(int i=0; present!=null && i<k;i++){
+                present.next=previous;
+                previous=present;
+                present= next;
+                if(next!=null){
+                    next=next.next;
+                }
+            }
+            if(last!=null){
+                last.next=previous;
+            }else{
+                head=previous;
+            }
+            newEnd.next=present;
+            // skip k node
+            for (int i = 0; present!=null && i <k ; i++) {
+                previous = present;
+                present=present.next;
+
+            }
+
 
 
 

@@ -1,4 +1,4 @@
-package DSA.Recursion.BackTraking.backtrakingQuestion;
+package com.DSA.Recursion.BackTraking.backtrakingQuestion;
 
 
 

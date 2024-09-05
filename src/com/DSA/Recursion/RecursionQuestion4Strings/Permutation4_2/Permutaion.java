@@ -1,4 +1,4 @@
-package DSA.Recursion.RecursionQuestion4Strings.Permutation4_2;
+package com.DSA.Recursion.RecursionQuestion4Strings.Permutation4_2;
 
 public class Permutaion {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package DSA.Recursion.BackTraking.Mazeproblem;
+package com.DSA.Recursion.BackTraking.Mazeproblem;
 
 import java.util.ArrayList;
 

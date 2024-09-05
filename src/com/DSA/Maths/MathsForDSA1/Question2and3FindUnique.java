@@ -1,4 +1,4 @@
-package DSA.Maths.MathsForDSA1;
+package com.DSA.Maths.MathsForDSA1;
 
 public class Question2and3FindUnique {
     public static void main(String[] args) {

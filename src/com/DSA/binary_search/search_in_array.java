@@ -1,4 +1,4 @@
-package DSA.binary_search;
+package com.DSA.binary_search;
 
 public class search_in_array {
     public static void main(String[] args) {

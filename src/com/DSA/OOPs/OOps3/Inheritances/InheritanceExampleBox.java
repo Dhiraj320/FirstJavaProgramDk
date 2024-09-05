@@ -1,4 +1,4 @@
-package DSA.OOPs.OOps3.Inheritances;
+package com.DSA.OOPs.OOps3.Inheritances;
 
 public class InheritanceExampleBox {
     public static void main(String[] args) {

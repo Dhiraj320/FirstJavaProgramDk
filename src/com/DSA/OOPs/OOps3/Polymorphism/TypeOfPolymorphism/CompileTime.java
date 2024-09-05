@@ -1,4 +1,4 @@
-package DSA.OOPs.OOps3.Polymorphism.TypeOfPolymorphism;
+package com.DSA.OOPs.OOps3.Polymorphism.TypeOfPolymorphism;
 
 public class CompileTime {
     int sum(int a, int b){

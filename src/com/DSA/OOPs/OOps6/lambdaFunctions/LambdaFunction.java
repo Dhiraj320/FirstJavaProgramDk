@@ -1,4 +1,4 @@
-package DSA.OOPs.OOps6.lambdaFunctions;
+package com.DSA.OOPs.OOps6.lambdaFunctions;
 
 import java.util.ArrayList;
 import java.util.function.Consumer;

@@ -1,4 +1,4 @@
-package DSA.Recursion.BackTraking.Mazeproblem;
+package com.DSA.Recursion.BackTraking.Mazeproblem;
 
 public class pathWithObstacles {
     public static void main(String[] args) {

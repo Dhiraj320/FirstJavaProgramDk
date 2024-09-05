@@ -1,4 +1,4 @@
-package DSA.Recursion.Recursion_1;
+package com.DSA.Recursion.Recursion_1;
 
 public class Recursion_Of_Number_Program {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package DSA.OOPs.OOps6.ComparisionofObject;
+package com.DSA.OOPs.OOps6.ComparisionofObject;
 
 public class Student implements Comparable<Student>{
     int rollNo;

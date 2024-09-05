@@ -1,4 +1,4 @@
-package DSA.OOPs.OOps4;
+package com.DSA.OOPs.OOps4;
 
 public class ObjetClassInDetails {
     public int num;

@@ -1,4 +1,4 @@
-package DSA.OOPs.OOps6.ObjectClonning;
+package com.DSA.OOPs.OOps6.ObjectClonning;
 
 public class Main {
     public static void main(String[] args) throws CloneNotSupportedException {

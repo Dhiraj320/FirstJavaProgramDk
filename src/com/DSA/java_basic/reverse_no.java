@@ -1,4 +1,4 @@
-package DSA.java_basic;
+package com.DSA.java_basic;
 
 public class reverse_no {
     public static void main(String[] args) {

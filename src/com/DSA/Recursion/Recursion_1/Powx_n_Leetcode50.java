@@ -1,4 +1,4 @@
-package DSA.Recursion.Recursion_1;
+package com.DSA.Recursion.Recursion_1;
 
 public class Powx_n_Leetcode50 {
     public static void main(String[] args) {

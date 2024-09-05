@@ -1,4 +1,4 @@
-package DSA.String;
+package com.DSA.String;
 
 public class Strings {
     public static void main(String[] args) {

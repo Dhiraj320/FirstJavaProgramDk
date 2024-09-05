@@ -1,4 +1,4 @@
-package DSA.patterns;
+package com.DSA.patterns;
 
 
 public class Pattern {

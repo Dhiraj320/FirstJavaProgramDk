@@ -1,4 +1,4 @@
-package DSA.OOPs.OOps3.Polymorphism;
+package com.DSA.OOPs.OOps3.Polymorphism;
 
 public class Circle extends Shapes{
     //this will run when obj of Circle is created

@@ -1,4 +1,4 @@
-package DSA.Recursion.Recursion2BasicQuestion;
+package com.DSA.Recursion.Recursion2BasicQuestion;
 
 public class Q1 {
     //print n to 1 number

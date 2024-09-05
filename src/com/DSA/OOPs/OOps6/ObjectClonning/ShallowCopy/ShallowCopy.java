@@ -1,4 +1,4 @@
-package DSA.OOPs.OOps6.ObjectClonning.ShallowCopy;
+package com.DSA.OOPs.OOps6.ObjectClonning.ShallowCopy;
 
 public class ShallowCopy implements Cloneable {
 

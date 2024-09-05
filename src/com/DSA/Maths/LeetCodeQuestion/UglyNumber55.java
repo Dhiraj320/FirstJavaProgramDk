@@ -1,4 +1,4 @@
-package DSA.Maths.LeetCodeQuestion;
+package com.DSA.Maths.LeetCodeQuestion;
 
 public class UglyNumber55 {
     public static void main(String[] args) {

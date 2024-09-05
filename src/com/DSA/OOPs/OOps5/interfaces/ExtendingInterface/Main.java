@@ -1,4 +1,4 @@
-package DSA.OOPs.OOps5.interfaces.ExtendingInterface;
+package com.DSA.OOPs.OOps5.interfaces.ExtendingInterface;
 
 public class Main implements B{
     @Override

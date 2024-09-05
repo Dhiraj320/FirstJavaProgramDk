@@ -1,4 +1,4 @@
-package DSA.java_basic;
+package com.DSA.java_basic;
 
 public class counting_occurence {
     public static void main(String[] args) {

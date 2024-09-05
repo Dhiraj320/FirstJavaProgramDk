@@ -1,4 +1,4 @@
-package DSA.String;
+package com.DSA.String;
 
 public class Palindrome {
     public static void main(String[] args) {

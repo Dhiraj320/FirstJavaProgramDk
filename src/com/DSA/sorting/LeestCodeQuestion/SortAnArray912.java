@@ -1,4 +1,4 @@
-package DSA.sorting.LeestCodeQuestion;
+package com.DSA.sorting.LeestCodeQuestion;
 
 import java.util.Arrays;
 

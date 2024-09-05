@@ -1,4 +1,4 @@
-package DSA.LinkedList;
+package com.DSA.LinkedList;
 
 public class DoublyLL {
     Node head;

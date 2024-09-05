@@ -1,4 +1,4 @@
-package DSA.Recursion.RecursionQuestion4Strings.Permutation4_2.LeetCodeQuestion;
+package com.DSA.Recursion.RecursionQuestion4Strings.Permutation4_2.LeetCodeQuestion;
 
 public class LetterCombinationOfPhoneNumber17 {
     public static void main(String[] args) {

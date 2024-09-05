@@ -1,4 +1,4 @@
-package DSA.OOPs.OOps6.ComparisionofObject;
+package com.DSA.OOPs.OOps6.ComparisionofObject;
 
 import java.util.Arrays;
 import java.util.Comparator;

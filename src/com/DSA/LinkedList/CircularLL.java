@@ -1,4 +1,4 @@
-package DSA.LinkedList;
+package com.DSA.LinkedList;
 
 public class CircularLL {
     private Node head;

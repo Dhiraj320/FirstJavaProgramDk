@@ -1,4 +1,4 @@
-package DSA.Recursion.Recursion3ArrayQuestion;
+package com.DSA.Recursion.Recursion3ArrayQuestion;
 
 import java.util.ArrayList;
 

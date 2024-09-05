@@ -1,4 +1,4 @@
-package AtmInterface;
+package com.AtmInterface;
 
 import java.util.ArrayList;
 

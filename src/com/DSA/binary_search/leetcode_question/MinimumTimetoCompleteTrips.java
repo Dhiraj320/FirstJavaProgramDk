@@ -1,4 +1,4 @@
-package DSA.binary_search.leetcode_question;
+package com.DSA.binary_search.leetcode_question;
 
 public class MinimumTimetoCompleteTrips {
     public static void main(String[] args) {

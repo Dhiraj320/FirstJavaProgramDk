@@ -1,4 +1,4 @@
-package DSA.OOPs.OOPs7.Collection;
+package com.DSA.OOPs.OOPs7.Collection;
 
 import java.util.*;
 

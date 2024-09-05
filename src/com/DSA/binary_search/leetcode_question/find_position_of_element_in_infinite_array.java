@@ -1,4 +1,4 @@
-package DSA.binary_search.leetcode_question;
+package com.DSA.binary_search.leetcode_question;
 
 public class find_position_of_element_in_infinite_array {
     public static void main(String[] args) {

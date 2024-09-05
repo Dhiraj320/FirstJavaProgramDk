@@ -1,4 +1,4 @@
-package DSA.Maths.MathsForDSA1;
+package com.DSA.Maths.MathsForDSA1;
 
 public class Question16RangeOfXOR {
     public static void main(String[] args) {

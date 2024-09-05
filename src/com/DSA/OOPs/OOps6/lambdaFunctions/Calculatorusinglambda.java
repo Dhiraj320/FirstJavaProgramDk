@@ -1,4 +1,4 @@
-package DSA.OOPs.OOps6.lambdaFunctions;
+package com.DSA.OOPs.OOps6.lambdaFunctions;
 
 public class Calculatorusinglambda {
     public static void main(String[] args) {

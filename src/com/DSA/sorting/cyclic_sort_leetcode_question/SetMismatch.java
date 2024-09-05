@@ -1,4 +1,4 @@
-package DSA.sorting.cyclic_sort_leetcode_question;
+package com.DSA.sorting.cyclic_sort_leetcode_question;
 //https://leetcode.com/problems/set-mismatch/description/
 
 public class SetMismatch {

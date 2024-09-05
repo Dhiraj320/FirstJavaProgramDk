@@ -1,4 +1,4 @@
-package DSA.OOPs.OOps5.AbstratcClass;
+package com.DSA.OOPs.OOps5.AbstratcClass;
 
 public class Main {
     public static void main(String[] args) {

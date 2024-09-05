@@ -1,4 +1,4 @@
-package DSA.OOPs.OOps6.ExceptionsHandling;
+package com.DSA.OOPs.OOps6.ExceptionsHandling;
 
 public class Main {
     public static void main(String[] args) {

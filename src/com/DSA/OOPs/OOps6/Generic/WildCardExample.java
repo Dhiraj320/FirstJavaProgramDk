@@ -1,4 +1,4 @@
-package DSA.OOPs.OOps6.Generic;
+package com.DSA.OOPs.OOps6.Generic;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,4 +1,4 @@
-package DSA.OOPs.OOps5.AbstratcClass;
+package com.DSA.OOPs.OOps5.AbstratcClass;
 
 public class Son extends Parent {
     public Son(int age) {

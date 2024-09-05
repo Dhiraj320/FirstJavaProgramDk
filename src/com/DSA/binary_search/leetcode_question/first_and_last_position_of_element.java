@@ -1,4 +1,4 @@
-package DSA.binary_search.leetcode_question;
+package com.DSA.binary_search.leetcode_question;
 //https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
 
 import java.util.Arrays;

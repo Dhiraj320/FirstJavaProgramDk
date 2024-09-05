@@ -1,4 +1,4 @@
-package DSA.OOPs.OOps5.interfaces;
+package com.DSA.OOPs.OOps5.interfaces;
 
 public class PowerEngine implements Engine{
     @Override

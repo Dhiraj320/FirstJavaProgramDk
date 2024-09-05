@@ -1,4 +1,4 @@
-package DSA.OOPs.OOps4.Access;
+package com.DSA.OOPs.OOps4.Access;
 
 public class MainClass {
     public static void main(String[] args) {

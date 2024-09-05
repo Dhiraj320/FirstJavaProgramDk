@@ -1,4 +1,4 @@
-package DSA.Recursion.Recursion3PatternAndSortingQuestion;
+package com.DSA.Recursion.Recursion3PatternAndSortingQuestion;
 
 import java.util.Arrays;
 

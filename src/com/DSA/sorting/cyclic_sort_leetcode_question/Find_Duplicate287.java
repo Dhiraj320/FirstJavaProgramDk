@@ -1,4 +1,4 @@
-package DSA.sorting.cyclic_sort_leetcode_question;
+package com.DSA.sorting.cyclic_sort_leetcode_question;
 //https://leetcode.com/problems/find-the-duplicate-number/description/
 class Find_Duplicate287 {
     public int findDuplicate(int[] nums) {

@@ -1,4 +1,4 @@
-package DSA.OOPs.OOps5.interfaces.NestedInterface;
+package com.DSA.OOPs.OOps5.interfaces.NestedInterface;
 
 public class A {
     public interface NestedInterface{

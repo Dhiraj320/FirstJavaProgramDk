@@ -1,4 +1,4 @@
-package DSA.OOPs.OOps5.interfaces;
+package com.DSA.OOPs.OOps5.interfaces;
 
 public interface Break {
     void brake();

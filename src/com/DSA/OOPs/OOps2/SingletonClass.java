@@ -1,4 +1,4 @@
-package DSA.OOPs.OOps2;
+package com.DSA.OOPs.OOps2;
 
 public class SingletonClass {
     private SingletonClass(){

@@ -1,4 +1,4 @@
-package DSA.OOPs.OOPs7.EnumsExample;
+package com.DSA.OOPs.OOPs7.EnumsExample;
 
 public class Basic {
     enum Week implements A{

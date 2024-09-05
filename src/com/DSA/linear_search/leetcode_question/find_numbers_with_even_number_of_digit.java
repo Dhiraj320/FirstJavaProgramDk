@@ -1,4 +1,4 @@
-package DSA.linear_search.leetcode_question;
+package com.DSA.linear_search.leetcode_question;
 //https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/
 /*
 public class find_numbers_with_even_number_of_digit {

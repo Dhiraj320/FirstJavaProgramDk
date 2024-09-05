@@ -1,4 +1,4 @@
-package DSA.Recursion.Recursion2BasicQuestion;
+package com.DSA.Recursion.Recursion2BasicQuestion;
 
 public class Q6ProductOfDigits {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package DSA.binary_search.leetcode_question;
+package com.DSA.binary_search.leetcode_question;
 //https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 public class search_in_rotated_sorted_array {
     public static void main(String[] args) {

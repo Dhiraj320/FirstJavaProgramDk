@@ -1,4 +1,4 @@
-package DSA.binary_search.leetcode_question;
+package com.DSA.binary_search.leetcode_question;
 //https://leetcode.com/problems/find-in-mountain-array/description/
 
 public class find_in_mountain_array {

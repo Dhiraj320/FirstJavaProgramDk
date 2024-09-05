@@ -1,4 +1,4 @@
-package DSA.sorting.cyclic_sort_leetcode_question;
+package com.DSA.sorting.cyclic_sort_leetcode_question;
 //https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
 import java.util.ArrayList;
 import java.util.List;

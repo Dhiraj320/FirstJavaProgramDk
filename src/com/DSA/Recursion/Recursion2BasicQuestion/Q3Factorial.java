@@ -1,4 +1,4 @@
-package DSA.Recursion.Recursion2BasicQuestion;
+package com.DSA.Recursion.Recursion2BasicQuestion;
 
 public class Q3Factorial {
     public static void main(String[] args) {

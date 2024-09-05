@@ -1,4 +1,4 @@
-package DSA.Recursion.Recursion2BasicQuestion;
+package com.DSA.Recursion.Recursion2BasicQuestion;
 //https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/
 
 public class LeetCodeQuestion1342 {

@@ -1,4 +1,4 @@
-package DSA.OOPs.OOps5.interfaces.ExtendingInterface2;
+package com.DSA.OOPs.OOps5.interfaces.ExtendingInterface2;
 
 public interface B {
     void greet();

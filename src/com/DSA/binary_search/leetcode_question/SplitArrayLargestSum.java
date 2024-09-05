@@ -1,4 +1,4 @@
-package DSA.binary_search.leetcode_question;
+package com.DSA.binary_search.leetcode_question;
 //https://leetcode.com/problems/split-array-largest-sum/description/
 
 public class SplitArrayLargestSum {

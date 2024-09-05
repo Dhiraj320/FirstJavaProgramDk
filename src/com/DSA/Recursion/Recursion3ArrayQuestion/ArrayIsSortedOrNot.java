@@ -1,4 +1,4 @@
-package DSA.Recursion.Recursion3ArrayQuestion;
+package com.DSA.Recursion.Recursion3ArrayQuestion;
 
 public class ArrayIsSortedOrNot {
     public static void main(String[] args) {

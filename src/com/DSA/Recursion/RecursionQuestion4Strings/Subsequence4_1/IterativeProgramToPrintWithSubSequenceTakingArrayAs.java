@@ -1,4 +1,4 @@
-package DSA.Recursion.RecursionQuestion4Strings.Subsequence4_1;
+package com.DSA.Recursion.RecursionQuestion4Strings.Subsequence4_1;
 
 import java.util.ArrayList;
 import java.util.Arrays;

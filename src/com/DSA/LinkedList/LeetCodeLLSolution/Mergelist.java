@@ -1,4 +1,4 @@
-package DSA.LinkedList.LeetCodeLLSolution;
+package com.DSA.LinkedList.LeetCodeLLSolution;
 
 public class Mergelist {
     // Using MergeList

@@ -1,4 +1,4 @@
-package DSA.Recursion.RecursionQuestion4Strings.Permutation4_2.LeetCodeQuestion;
+package com.DSA.Recursion.RecursionQuestion4Strings.Permutation4_2.LeetCodeQuestion;
 
 import java.util.ArrayList;
 

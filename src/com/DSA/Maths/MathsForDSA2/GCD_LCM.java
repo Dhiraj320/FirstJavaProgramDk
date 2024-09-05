@@ -1,4 +1,4 @@
-package DSA.Maths.MathsForDSA2;
+package com.DSA.Maths.MathsForDSA2;
 
 import java.util.Arrays;
 

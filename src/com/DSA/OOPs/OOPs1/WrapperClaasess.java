@@ -1,4 +1,4 @@
-package DSA.OOPs.OOPs1;
+package com.DSA.OOPs.OOPs1;
 
 public class WrapperClaasess {
     public static void main(String[] args) {

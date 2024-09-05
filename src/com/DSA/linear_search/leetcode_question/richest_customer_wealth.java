@@ -1,4 +1,4 @@
-package DSA.linear_search.leetcode_question;
+package com.DSA.linear_search.leetcode_question;
 
 //https://leetcode.com/problems/richest-customer-wealth/
 

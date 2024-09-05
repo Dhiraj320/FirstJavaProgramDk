@@ -1,4 +1,4 @@
-package DSA.Recursion.RecursionQuestion4Strings.Subsequence4_1;
+package com.DSA.Recursion.RecursionQuestion4Strings.Subsequence4_1;
 
 public class Q2SkipString {
     public static void main(String[] args) {

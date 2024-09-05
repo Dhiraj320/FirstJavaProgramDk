@@ -1,4 +1,4 @@
-package DSA.arrays;
+package com.DSA.arrays;
 
 public class array_lecture_2_1 {
     public static void main(String[] args) {

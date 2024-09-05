@@ -1,4 +1,4 @@
-package DSA.arrays;
+package com.DSA.arrays;
 
 public class dynamic_array {
     public static void main(String[] args) {

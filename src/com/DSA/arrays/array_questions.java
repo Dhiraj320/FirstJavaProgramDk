@@ -1,4 +1,4 @@
-package DSA.arrays;
+package com.DSA.arrays;
 
 public class array_questions {
     public static void main(String[] args) {

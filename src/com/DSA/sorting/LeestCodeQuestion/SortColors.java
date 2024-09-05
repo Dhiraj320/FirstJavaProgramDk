@@ -1,4 +1,4 @@
-package DSA.sorting.LeestCodeQuestion;
+package com.DSA.sorting.LeestCodeQuestion;
 //https://leetcode.com/problems/sort-colors/description/
 
 //Selection Sort

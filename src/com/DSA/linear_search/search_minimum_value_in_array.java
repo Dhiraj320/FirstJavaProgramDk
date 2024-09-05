@@ -1,4 +1,4 @@
-package DSA.linear_search;
+package com.DSA.linear_search;
 
 public class search_minimum_value_in_array {
     public static void main(String[] args) {

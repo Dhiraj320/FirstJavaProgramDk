@@ -1,4 +1,4 @@
-package DSA.Maths.MathsForDSA2;
+package com.DSA.Maths.MathsForDSA2;
 
 public class Prime {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package DSA.arrays.LeetCode;
+package com.DSA.arrays.LeetCode;
 //https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/
 
 public class MinimumOperationToMakeAllElementDivisibleBy3 {
