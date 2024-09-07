@@ -1,4 +1,4 @@
-package com.DSA.Queue.LeetCodeQuestion;
+package com.DSA.Stack.StackQuestions.LeetCodeQuestion;
 
 class largestRectangleInHistogram {
  /*
