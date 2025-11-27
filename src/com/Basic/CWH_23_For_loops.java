@@ -24,7 +24,7 @@ public class CWH_23_For_loops {
       Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number to print its  reverse order  odd number ");
         int odd =sc.nextInt();
-           for(int i = odd; i >0; i--){
+           for(int i = odd; i >=0; i--){
             System.out.println(2*i+1);
         }
 

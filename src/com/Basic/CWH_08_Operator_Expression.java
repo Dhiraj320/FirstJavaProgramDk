@@ -7,9 +7,9 @@ public class CWH_08_Operator_Expression {
         // here 7 and 8 are operand
         // + is operator
         //15 is result
-//        int a= 8;
-//        int b=8+a;
-//        System.out.println(a+b);
+        int a= 8;
+        int b=8+a;
+        System.out.println(a+b);
 
            //   int a = 4;
         // int b = 6 % a;  // Modulo Operator
@@ -18,9 +18,9 @@ public class CWH_08_Operator_Expression {
 
 
         // 2.Assignment Operators
-        int b = 9;
-        b *= 3;
-        System.out.println(b);
+//        int b = 9;
+//        b *= 3;
+//        System.out.println(b);
 
         // +=
 //        int a= 8;
@@ -42,21 +42,21 @@ public class CWH_08_Operator_Expression {
 //        System.out.println(9<=8);
 
         // 4.Logical Operator
-        System.out.println(64>8 && 65>8); // for and(&) operator both statemenrt should be true
-        System.out.println(64>8 || 65>8);  // for and(&) operator only one  or both  statemenrt should be true
-        System.out.println(5!=5);
+//        System.out.println(64>8 && 65>8); // for and(&) operator both statemenrt should be true
+//        System.out.println(64>8 || 65>8);  // for and(&) operator only one  or both  statemenrt should be true
+//        System.out.println(5!=5);
 
 
         // 5.Bitwise Operators
-        System.out.println(2&3);
+//        System.out.println(2&3);
         //        10
         //        11
         //        ---
         //        10
 
-        // bitwise operator
-        System.out.println(5&3);
-        System.out.println(5|3);
+//        // bitwise operator
+//        System.out.println(5&3);
+//        System.out.println(5|3);
 
 
 

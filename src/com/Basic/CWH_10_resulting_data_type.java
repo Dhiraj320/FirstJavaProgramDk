@@ -29,9 +29,9 @@ public class CWH_10_resulting_data_type {
 //        int y = 7;
 //        System.out.println(++y*8);
 //
-        char ch = 'B';
-        System.out.println(ch ++);
-        System.out.println(ch);
+//        char ch = 'B';
+//        System.out.println(ch++);
+//        System.out.println(ch);
 
 
 

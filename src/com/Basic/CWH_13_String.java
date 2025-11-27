@@ -16,8 +16,8 @@ public class CWH_13_String {
 //        System.out.format("The value of a is %d and value of b is %f", a, b);
 
         Scanner sc  = new Scanner (System.in);
-        //String st = sc.next();  // Agar ek word chahiye to next and agar sare word chahiye to nextline use krte hai
-        String st = sc.nextLine();
+        String st = sc.next();  // Agar ek word chahiye to next and agar sare word chahiye to nextline use krte hai
+//        String st = sc.nextLine();
         System.out.println(st);
 
 
