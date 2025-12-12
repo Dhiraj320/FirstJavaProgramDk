@@ -1,4 +1,4 @@
-package DSA;
+package Basic.Exceptions;
 
 import java.io.FileReader;
 import java.io.IOException;
